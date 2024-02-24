@@ -1,3 +1,4 @@
+.vagrant/
 # Freqtrade rules
 config*.json
 *.sqlite
